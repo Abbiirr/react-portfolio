@@ -65,11 +65,11 @@ function NavBar() {
                 <CgFileDocument className="nav-icon" /> Resume
               </Nav.Link>
             </Nav.Item>
-            <Nav.Item>
+            {/* <Nav.Item>
               <Nav.Link href="https://yourbloglink.com" target="_blank">
                 <ImBlog className="nav-icon" /> Blog
               </Nav.Link>
-            </Nav.Item>
+            </Nav.Item> */}
             <Nav.Item className="fork-btn">
               <Button
                 href="https://github.com/Abbiirr/react-portfolio"

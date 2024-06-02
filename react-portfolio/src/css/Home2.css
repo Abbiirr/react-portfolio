@@ -6,7 +6,7 @@
   }
   
   .home-about-title {
-    font-size: 2.5rem;
+    font-size: 3rem;
     margin-bottom: 20px;
     font-weight: bold;
     color: #343a40;
@@ -17,7 +17,7 @@
   }
   
   .home-about-body {
-    font-size: 1.125rem;
+    font-size: 1.25rem;
     line-height: 1.6;
     color: #495057;
     margin-bottom: 30px;
@@ -34,11 +34,12 @@
   .explore-button {
     background-color: #6f42c1;
     border: none;
-    padding: 10px 20px;
-    font-size: 1rem;
+    padding: 12px 24px;
+    font-size: 1.2rem;
     font-weight: bold;
     color: #fff;
     transition: background-color 0.3s;
+    border-radius: 25px;
   }
   
   .explore-button:hover {
@@ -50,7 +51,7 @@
   }
   
   .social-title {
-    font-size: 1.8rem;
+    font-size: 2rem;
     margin-bottom: 20px;
     font-weight: bold;
     color: #343a40;
@@ -64,17 +65,17 @@
   }
   
   .social-icons {
-    margin: 0 10px;
+    margin: 0 15px;
   }
   
   .home-social-icons {
     color: #6f42c1;
-    font-size: 2rem;
+    font-size: 2.5rem;
     transition: transform 0.3s, color 0.3s;
   }
   
   .home-social-icons:hover {
     color: #343a40;
-    transform: scale(1.2);
+    transform: scale(1.1);
   }
   

@@ -17,9 +17,8 @@ import { useNavigate } from 'react-router-dom';
 function Home2() {
   const navigate = useNavigate()
   const handleSubmit = () => {
-    //your code
     
-    navigate("/projects")
+    navigate("/projects");
   }
 
   return (

@@ -2,35 +2,35 @@
 .navbar {
     transition: all 0.3s ease;
     background-color: transparent;
-  }
+    color: white; /* Set navbar text color to white */
+}
   
-  .navbar-sticky {
+.navbar-sticky {
     background-color: #333;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
-  }
+}
   
-  .logo {
+.logo {
     width: 50px;
     height: 50px;
-  }
+}
   
-  .nav-icon {
+.nav-icon {
     margin-bottom: 2px;
     margin-right: 8px;
-  }
+}
   
-  .fork-btn .fork-btn-inner {
+.fork-btn .fork-btn-inner {
     display: flex;
     align-items: center;
     background-color: #6c757d;
     border: none;
-  }
+}
   
-  .fork-btn .fork-btn-inner:hover {
+.fork-btn .fork-btn-inner:hover {
     background-color: #5a6268;
-  }
+}
   
-  .fork-icon, .star-icon {
+.fork-icon, .star-icon {
     margin-right: 4px;
-  }
-  
+}
