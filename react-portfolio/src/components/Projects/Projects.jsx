@@ -59,7 +59,7 @@ function Projects() {
               description=" Built With React, NodeJs, Express, MongoDB. Website where patients can input
               their symptoms and get doctor recommendations."
               ghLink="https://github.com/yourusername/project3"
-              demoLink="https://project3-demo-link.com"
+              // demoLink="https://project3-demo-link.com"
             />
           </Col>
 
@@ -72,7 +72,7 @@ function Projects() {
               description="A C++SFML 2D Platformer Game. Multi-level game built without any frame
               works only using SFML library."
               ghLink="https://github.com/yourusername/project4"
-              demoLink="https://project4-demo-link.com"
+              // demoLink="https://project4-demo-link.com"
             />
           </Col>
 

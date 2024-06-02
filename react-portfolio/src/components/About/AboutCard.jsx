@@ -29,9 +29,12 @@ function AboutCard() {
             <li className="about-activity">
               <ImPointRight /> Travelling
             </li>
+            <li className="about-activity">
+              <ImPointRight /> Running
+            </li>
           </ul>
           <p style={{ color: "var(--primary-color)" }}>
-            "Strive to build things that make a difference!"{" "}
+            "It's the effort that matters!"{" "}
           </p>
           <footer className="blockquote-footer">Abir Hossain</footer>
         </blockquote>
