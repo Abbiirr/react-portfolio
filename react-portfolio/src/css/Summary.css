@@ -1,0 +1,17 @@
+#summary {
+    padding: 100px 20px 20px;
+    text-align: center;
+    background-color: #f4f4f4;
+  }
+  
+  #summary h2 {
+    margin-top: 0;
+  }
+  
+  #summary p {
+    font-size: 1.2rem;
+    max-width: 600px;
+    margin: 1rem auto;
+    line-height: 1.6;
+  }
+  

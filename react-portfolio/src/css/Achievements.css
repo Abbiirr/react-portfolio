@@ -1,0 +1,26 @@
+#achievements {
+    padding: 50px 20px;
+    background-color: #fff;
+    text-align: center;
+  }
+  
+  #achievements h2 {
+    margin-bottom: 20px;
+  }
+  
+  #achievements ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  #achievements ul li {
+    background-color: #f4f4f4;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 10px;
+    margin: 10px 0;
+    font-size: 1rem;
+    color: #333;
+    text-align: left;
+  }
+  

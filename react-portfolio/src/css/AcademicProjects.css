@@ -1,0 +1,39 @@
+#academic-projects {
+    padding: 50px 20px;
+    background-color: #f4f4f4;
+    text-align: center;
+  }
+  
+  #academic-projects h2 {
+    margin-bottom: 20px;
+  }
+  
+  .project-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+  }
+  
+  .project-item {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 20px;
+    width: 300px;
+    transition: transform 0.3s ease;
+  }
+  
+  .project-item:hover {
+    transform: translateY(-5px);
+  }
+  
+  .project-item h3 {
+    margin-top: 0;
+  }
+  
+  .project-item p {
+    font-size: 1rem;
+    color: #333;
+  }
+  

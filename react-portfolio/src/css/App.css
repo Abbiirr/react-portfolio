@@ -1,0 +1,27 @@
+.App {
+    font-family: Arial, sans-serif;
+    color: #333;
+  }
+  
+  main {
+    padding-top: 80px;
+  }
+  
+  section {
+    padding: 60px 20px;
+  }
+  
+  h2 {
+    font-size: 2rem;
+    color: #282c34;
+  }
+  
+  a {
+    color: #61dafb;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
