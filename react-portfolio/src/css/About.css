@@ -1,17 +1,37 @@
 #about {
-    padding: 100px 20px 20px;
+    padding: 50px 20px;
+    background-color: #fff;
     text-align: center;
-    background-color: #f4f4f4;
   }
   
   #about h2 {
-    margin-top: 0;
+    margin-bottom: 20px;
   }
   
   #about p {
     font-size: 1.2rem;
-    max-width: 600px;
-    margin: 1rem auto;
+    max-width: 800px;
+    margin: 0 auto;
     line-height: 1.6;
+  }
+  
+  .about-section {
+    background-color: var(--background-color);
+    color: var(--text-color);
+  }
+  
+  .project-heading {
+    font-size: 2.1em;
+    padding-bottom: 20px;
+    color: var(--text-color);
+  }
+  
+  .purple {
+    color: var(--primary-color);
+  }
+  
+  .about-img img {
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
   }
   

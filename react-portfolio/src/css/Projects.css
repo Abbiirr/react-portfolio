@@ -1,23 +1,44 @@
-.project-grid {
+#projects {
+    padding: 50px 20px;
+    background-color: #fff;
+    text-align: center;
+  }
+  
+  #projects h2 {
+    margin-bottom: 20px;
+  }
+  
+  .project-grid {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
     gap: 20px;
   }
   
   .project-card {
-    background-color: #f4f4f4;
-    padding: 20px;
+    background-color: var(--background-color);
+    border: 1px solid #ddd;
     border-radius: 8px;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    padding: 20px;
     transition: transform 0.3s ease;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
   }
   
   .project-card:hover {
     transform: translateY(-5px);
   }
   
+  .project-card h3 {
+    margin-top: 0;
+    color: var(--primary-color);
+  }
+  
+  .project-card p {
+    font-size: 1rem;
+    color: var(--text-color);
+  }
+  
   .project-link {
-    color: #61dafb;
+    color: var(--primary-color);
     text-decoration: none;
     margin-top: 10px;
     display: inline-block;
@@ -25,5 +46,6 @@
   
   .project-link:hover {
     text-decoration: underline;
+    color: var(--secondary-color);
   }
   

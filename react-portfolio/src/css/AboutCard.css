@@ -1,0 +1,33 @@
+.quote-card-view {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    margin: 20px;
+    padding: 20px;
+  }
+  
+  .blockquote {
+    font-size: 1.2rem;
+    color: var(--text-color);
+  }
+  
+  .purple {
+    color: var(--primary-color);
+  }
+  
+  .about-activity {
+    list-style-type: none;
+    margin: 10px 0;
+  }
+  
+  .about-activity svg {
+    margin-right: 10px;
+  }
+  
+  .blockquote-footer {
+    font-size: 0.9rem;
+    color: var(--secondary-color);
+    text-align: right;
+  }
+  

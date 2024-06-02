@@ -1,11 +1,13 @@
-import React from "react";
-import "../css/About.css";
+import React from 'react';
+import './About.css';
 
 function About() {
   return (
     <section id="about">
       <h2>About Me</h2>
-      <p>Hi, I'm [Your Name]. I'm a [Your Profession].</p>
+      <p>
+        My name is Abir Hossain, and I am currently studying software engineering and working as an Associate Software Engineer. I am passionate about my craft and strive to hone my skills to become the best engineer I can be.
+      </p>
     </section>
   );
 }

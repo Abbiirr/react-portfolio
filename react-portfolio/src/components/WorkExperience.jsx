@@ -1,9 +1,9 @@
 import React from 'react';
-import '../css/WorkExperience.css';
+import './WorkExperience.css';
 
 function WorkExperience() {
   return (
-    <section id="work-experience">
+    <section id="experience">
       <h2>Work Experience</h2>
       <div className="experience">
         <h3>Associate Software Engineer</h3>

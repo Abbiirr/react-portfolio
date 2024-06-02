@@ -1,28 +1,30 @@
-#work-experience {
+#experience {
     padding: 50px 20px;
-    background-color: #fff;
+    background-color: var(--background-color);
     text-align: center;
   }
   
-  #work-experience h2 {
+  #experience h2 {
     margin-bottom: 20px;
   }
   
   .experience {
-    background-color: #f4f4f4;
+    background-color: #fff;
     border: 1px solid #ddd;
     border-radius: 8px;
     padding: 20px;
     margin: 10px 0;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
   }
   
   .experience h3 {
     margin-top: 0;
+    color: var(--primary-color);
   }
   
   .experience p {
     font-size: 1rem;
-    color: #333;
+    color: var(--text-color);
   }
   
   .experience ul {
