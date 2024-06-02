@@ -48,4 +48,20 @@
     text-decoration: underline;
     color: var(--secondary-color);
   }
+
+  .project-section {
+    background-color: var(--background-color);
+    color: var(--text-color);
+  }
+  
+  .project-heading {
+    font-size: 2.1em;
+    padding-bottom: 20px;
+    color: var(--text-color);
+  }
+  
+  .purple {
+    color: var(--primary-color);
+  }
+  
   
